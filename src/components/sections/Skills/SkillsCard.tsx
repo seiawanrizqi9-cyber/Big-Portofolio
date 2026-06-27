@@ -11,7 +11,7 @@ const SkillCard = ({ skill }: SkillCardProps) => {
         group
         rounded-2xl
         border border-border
-        bg-card/50
+        bg-surface-low/50
         p-5
         backdrop-blur-sm
         transition-all

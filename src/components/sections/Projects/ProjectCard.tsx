@@ -11,7 +11,7 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
         group
         rounded-3xl
         border border-border
-        bg-card/50
+        bg-surface-low/50
         p-8
         backdrop-blur-sm
         transition-all
@@ -65,7 +65,7 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
                 py-2.5
                 text-sm
                 font-medium
-                text-primary-foreground
+                text-background
               "
             >
               Live Demo
